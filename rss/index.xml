@@ -13,19 +13,17 @@
       <itunes:email>michaelbarneyjunior@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png" />
-    <itunes:category text="Technology"/>
-    
-      <item>
-        <title>#1 - Chatbot Marketing</title>
-        <itunes:author>Michael Barney</itunes:author>
-        <itunes:subtitle>#1</itunes:subtitle>
-        <itunes:summary>O que é (e como utilizar) a tecnologia do Chatbot Marketing</itunes:summary>
-        <itunes:image href="https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png" />
-        <enclosure url="https://github.com/MichaelBarney/CastBotPodcast/raw/master/Episodes/chatbotmarkeging.mp3" length="7100000" type="audio/mpeg"/>
-        <guid>0</guid>
-        <pubDate>Sat Apr 04 2020 08:55:32 GMT-0300 (Brasilia Standard Time)</pubDate>
-        <itunes:duration>8:09</itunes:duration>
-      </item>
-    
+    <itunes:category text="Technology"/>  
+    <item>
+      <title>#1 - Chatbot Marketing</title>
+      <itunes:author>Michael Barney</itunes:author>
+      <itunes:subtitle>#1</itunes:subtitle>
+      <itunes:summary>O que é (e como utilizar) a tecnologia do Chatbot Marketing</itunes:summary>
+      <itunes:image href="https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png" />
+      <enclosure url="https://github.com/MichaelBarney/CastBotPodcast/raw/master/Episodes/chatbotmarkeging.mp3" length="7100000" type="audio/mpeg"/>
+      <guid>0</guid>
+      <pubDate>Sat Apr 04 2020 08:55:32 GMT-0300 (Brasilia Standard Time)</pubDate>
+      <itunes:duration>8:09</itunes:duration>
+    </item>
   </channel>
   </rss>
