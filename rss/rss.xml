@@ -1,24 +1,31 @@
-<? xml version ="1.0" encoding ="utf-8"?>
-<rss version="2.0">
-    <channel>
-        <title>CastBot</title>
-        <link>http://michaelbarney.com/</link>
-        <description>O podcast com tudo sobre Plataformas Conversacionais, Assistentes Pessoais Virtuais e Chatbots.</description>
-        <language>pt-br</language>
-        <image>
-            <title>CastBot</title>
-            <link>https://github.com/MichaelBarney/CastBotPodcast</link>
-            <url>https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png</url>
-            <width>1272</width>
-            <heigh>1272</height>
-        </image>
-
-        <item>
-            <title></title>
-            <pubDate>Sat 4 Apt 2020 09:00</pubDate>
-            <link></link>
-            <description><[CDATA[aaaaaa]]></description>
-            <author>michaelbarneyjunior@gmail.com>
-        </item>
-    </channel>
-</rss>
+ <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>PodChat</title>
+    <link>http://michaelbarney.com/</link>
+    <language>pt-br</language>
+    <copyright>2020</copyright>
+    <itunes:subtitle>Chatbot Podcast</itunes:subtitle>
+    <itunes:author>Michael Barney</itunes:author>
+    <itunes:summary>O podcast com tudo sobre Plataformas Conversacionais, Assistentes Pessoais Virtuais e Chatbots.</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Michael Barney</itunes:name>
+      <itunes:email>michaelbarneyjunior@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png" />
+    <itunes:category text="Technology"/>
+    
+      <item>
+        <title>#1 - Chatbot Marketing</title>
+        <itunes:author>Michael Barney</itunes:author>
+        <itunes:subtitle>#1</itunes:subtitle>
+        <itunes:summary>O que é (e como utilizar) a tecnologia do Chatbot Marketing</itunes:summary>
+        <itunes:image href="https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png" />
+        <enclosure url="https://github.com/MichaelBarney/CastBotPodcast/raw/master/Episodes/chatbotmarkeging.mp3" length="7100000" type="audio/mpeg"/>
+        <guid>0</guid>
+        <pubDate>Sat Apr 04 2020 08:55:32 GMT-0300 (Brasilia Standard Time)</pubDate>
+        <itunes:duration>8:09</itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
