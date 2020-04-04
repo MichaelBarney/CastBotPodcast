@@ -1,0 +1,24 @@
+<? xml version ="1.0" encoding ="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CastBot</title>
+        <link>http://michaelbarney.com/</link>
+        <description>O podcast com tudo sobre Plataformas Conversacionais, Assistentes Pessoais Virtuais e Chatbots.</description>
+        <language>pt-br</language>
+        <image>
+            <title>CastBot</title>
+            <link>https://github.com/MichaelBarney/CastBotPodcast</link>
+            <url>https://raw.githubusercontent.com/MichaelBarney/CastBotPodcast/master/Logo.png</url>
+            <width>1272</width>
+            <heigh>1272</height>
+        </image>
+
+        <item>
+            <title></title>
+            <pubDate>Sat 4 Apt 2020 09:00</pubDate>
+            <link></link>
+            <description><[CDATA[aaaaaa]]></description>
+            <author>michaelbarneyjunior@gmail.com>
+        </item>
+    </channel>
+</rss>
