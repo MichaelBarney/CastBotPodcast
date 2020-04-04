@@ -133,7 +133,7 @@
         type="audio/mpeg" 
         url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
       />
-      <guid>aae20190509/guid>
+      <guid>aae20190509</guid>
       <pubDate>Tue, 27 Nov 2018 01:15:00 +0000</pubDate>
       <itunes:duration>929</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
